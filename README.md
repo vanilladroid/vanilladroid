@@ -10,7 +10,7 @@ Learning modern full-stack development with a focus on frontend and visual desig
 I love building interfaces that feel intuitive and look beautiful — it’s where my technical and artistic sides overlap.
 
 Current Focus
-•	⚛️ React and modern JavaScript
+•	⚛️ React and JavaScript
 •	🎨 Tailwind CSS for styling that brings interfaces to life
 •	🧩 Full-stack architecture — understanding how systems work end-to-end
 •	🌌 Three.js for rich, interactive visual experiences
