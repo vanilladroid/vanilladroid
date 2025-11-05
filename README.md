@@ -12,8 +12,11 @@ I love building interfaces that feel intuitive and look beautiful — it’s whe
 Current Focus:
 
 •	⚛️ React and JavaScript
+
 •	🎨 Tailwind CSS for styling that brings interfaces to life
+
 •	🧩 Full-stack architecture — understanding how systems work end-to-end
+
 •	🌌 Three.js for rich, interactive visual experiences
 
 🧠 What You’ll Find
