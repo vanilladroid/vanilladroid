@@ -4,8 +4,6 @@ Hi, I’m Mihaita Braes 👋
 I’ve always been drawn to where technology meets creativity.
 I studied Electronics Engineering, spent the last five years in Product Management (mostly Fintech and SaaS), and now I’m rekindling my technical side through web development.
 
-⸻
-
 🎯 What I’m Doing Here
 
 Learning modern full-stack development with a focus on frontend and visual design.
@@ -16,8 +14,6 @@ Current Focus
 •	🎨 Tailwind CSS for styling that brings interfaces to life
 •	🧩 Full-stack architecture — understanding how systems work end-to-end
 •	🌌 Three.js for rich, interactive visual experiences
-
-⸻
 
 🧠 What You’ll Find
 
