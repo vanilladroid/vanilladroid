@@ -9,7 +9,8 @@ I studied Electronics Engineering, spent the last five years in Product Manageme
 Learning modern full-stack development with a focus on frontend and visual design.
 I love building interfaces that feel intuitive and look beautiful — it’s where my technical and artistic sides overlap.
 
-Current Focus
+Current Focus:
+
 •	⚛️ React and JavaScript
 •	🎨 Tailwind CSS for styling that brings interfaces to life
 •	🧩 Full-stack architecture — understanding how systems work end-to-end
